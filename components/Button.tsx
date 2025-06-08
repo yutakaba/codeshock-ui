@@ -1,4 +1,5 @@
 import { styled } from '@linaria/react';
+import React from 'react';
 
 type Props = {
   children: React.ReactNode;
